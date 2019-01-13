@@ -1,3 +1,11 @@
+A Contact Manager application built with React and Redux. Following a tutorial from Brad Traversy to cement my knowledge of react.
+
+This application really helped me build a solid foundation with JSX and using redux and thunk to handle state in the application.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
